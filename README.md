@@ -12,4 +12,4 @@ b) run AidanWalk_HW12_2c_animate by executing python AidanWalk_HW12_2c_animate.p
 
 Problem 3: 
 
-run AidanWalk_HW12_3 by executing python AidanWalk_HW12_3.py. Be patient as this executing will take just under a minute. The program will save a plot titled 'AidanWalk_HW12_3_Plot.png' to the local directory. This plot is of a simulation of radioactive decay of bismuth 213 over 20,000 seconds. 
+run AidanWalk_HW12_3 by executing python AidanWalk_HW12_3.py. Be patient as this executtion takes just under a minute on my computer. The program will save a plot titled 'AidanWalk_HW12_3_Plot.png' to the local directory. This plot is of a simulation of radioactive decay of bismuth 213 over 20,000 seconds. 
